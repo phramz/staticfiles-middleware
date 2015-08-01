@@ -1,6 +1,6 @@
 # Static Files StackPHP Middleware
 
-[![Build Status](https://travis-ci.org/phramz/staticfiles-middleware.svg)](https://travis-ci.org/phramz/staticfiles-middleware) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/phramz/staticfiles-middleware/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/phramz/staticfiles-middleware/?branch=master) [![Code Coverage](https://scrutinizer-ci.com/g/phramz/staticfiles-middleware/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/phramz/staticfiles-middleware/?branch=master) 
+[![Build Status](https://travis-ci.org/phramz/staticfiles-middleware.svg)](https://travis-ci.org/phramz/staticfiles-middleware) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/phramz/staticfiles-middleware/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/phramz/staticfiles-middleware/?branch=master) [![Code Coverage](https://scrutinizer-ci.com/g/phramz/staticfiles-middleware/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/phramz/staticfiles-middleware/?branch=master) [![SensioLabsInsight](https://insight.sensiolabs.com/projects/e3ae1420-edd0-4087-9d23-80f2323ceaa5/mini.png)](https://insight.sensiolabs.com/projects/e3ae1420-edd0-4087-9d23-80f2323ceaa5)
 
 This is a StackPHP middleware for the `phramz/staticfile` webserver (https://github.com/phramz/staticfile)
 
