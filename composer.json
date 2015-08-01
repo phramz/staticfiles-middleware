@@ -3,7 +3,7 @@
   "license": "MIT",
   "type": "library",
   "keywords": ["staticfiles", "stack", "stackphp", "middleware", "webserver"],
-  "description": "This library will serve static files from a local directory",
+  "description": "This is a StackPHP middleware for phramz/staticfiles webserver",
   "authors": [
     {
       "name": "Maximilian Reichel",
